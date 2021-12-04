@@ -13611,4 +13611,16 @@
         <Description>Autosplitting requires PICO-8 and special cart. By probablypablito</Description>
         <Website>https://github.com/cominixo/ClassicAutosplitter/</Website>
     </AutoSplitter>
+    <AutoSplitter>
+    	<Games>
+	    <Game>Super Mario 64</Game>
+            <Game>SM64</Game>
+        </Games>
+	<URLs>
+      	    <URL>raw.githubusercontent.com/BlazinGlory/SM64-AutoSplitter/main/AutoSplitSM64.asl</URL>
+    	</URLs>
+    	<Type>Script</Type>
+    	<Description>SM64 Autosplitter for Project64 1.6 (By BlazinGlory)</Description>
+    	<Website>https://github.com/BlazinGlory/SM64-AutoSplitter/blob/main/README.md</Website>
+    </AutoSplitter>
 </AutoSplitters>
